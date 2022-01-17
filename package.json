@@ -1,0 +1,25 @@
+{
+  "name": "project-boilingplates",
+  "version": "1.0.0",
+  "description": "My repo to use for whenever I want to start a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel-wd-kirby/project-boilingplates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel-wd-kirby/project-boilingplates/issues"
+  },
+  "homepage": "https://github.com/samuel-wd-kirby/project-boilingplates#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15"
+  }
+}
